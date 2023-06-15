@@ -1,0 +1,24 @@
+<div style="
+background-color:#f1f1;
+text-align: center;
+padding: 40px;
+">
+<img src='https//kangwenchang.com/logo.png' alt="jingfeng wang" width="80px" height="80px">
+</div>
+<div style="
+max-weidth: 700px;
+margin: 30px auto;
+padding: 15px;
+line-height: 1.7;
+">
+<p> my WEB</p>
+<p> my WEB</p>
+<p> my WEB</p>
+</div>
+<div style="
+background-color:#f1f1;
+text-align: center;
+padding: 40px;
+front-size: 12px;
+">
+</div>
